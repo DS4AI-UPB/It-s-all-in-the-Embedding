@@ -40,7 +40,7 @@ Parameters:
 - DIR_EMBS - directory with the document embedings (all the embeddings are needed for the code to run)
 - NUM_ITER: number of iterations
 
-Run: `` python3.7 models.py DIREMBS NUM_ITER``
+Run: ``python3.7 models.py DIREMBS NUM_ITER``
 
 ### Create embeddings
 
